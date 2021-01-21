@@ -27,7 +27,7 @@ public class ReduceTest {
 				return s2;
 		}));
 
-		// 规过 2 Class 荤侩
+		// 规过 2 Class 荤侩 けけ
 		System.out.println(Arrays.stream(greetings).reduce(new ComparString()).get());
 
 	}
